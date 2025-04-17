@@ -3,7 +3,9 @@ name: Request and Reserve Workshop Jupyter Hub
 about: Reserve a window of time and password for your workshop
 title: "[Reserve Workshop] <brief description>"
 labels: bug
-assignees: ''
+assignees:
+  - eeholmes
+  - ateucher
 ---
 
 Use this issue to reserve access to the NMFS Workshop Hub URL: https://workshop.nmfs-openscapes.2i2c.cloud
