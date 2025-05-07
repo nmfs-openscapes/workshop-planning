@@ -36,8 +36,8 @@ Your event password will be live on the "Password Change Date" in column 1 in th
 **Checkboxes for organizer and hub POC**
 
 - [ ] **Hub POC**: Sent confirmation to organizer
-- [ ] **Organizer**: I have given a password to hub POC
-- [ ] **Hub POC**: Submitted a ticket to 2i2c for the workshop.
+- [ ] **Organizer**: I have given a password to hub POC or received one.
+- [ ] **Hub POC**: Submitted a ticket to 2i2c for the workshop and password reset. Confirmed with workshop organizer.
 - [ ] **Organizer**: Two weeks before event. I have tested the default hub images on the nmfs-openscapes.2i2c.cloud hub or conferred with hub POC on plan for workshop specific hub.
 - [ ] **Organizer**: In the week before the event (or when POC indicates password should be live). I tested that the workshop password works and images work.
 - [ ] **Hub POC**: After event, put in a 2i2c ticket to remove the participants directories, cleared shared-public, and reset password.
