@@ -16,7 +16,7 @@ See current reserved times here: <https://docs.google.com/spreadsheets/d/1Y4qzqW
 **Describe the event**
 Short description is fine
 
-**Event Start Date/Time	and Event End Date/Time***
+**Event Start Date/Time	and Event End Date/Time**
 
 **Reset Date**
 If you want the participants to have more or less access than the default of 7 days.
