@@ -2,7 +2,6 @@
 name: Request and Reserve Workshop Jupyter Hub
 about: Reserve a window of time and password for your workshop
 title: "[Reserve Workshop] <brief description>"
-labels: bug
 assignees:
   - eeholmes
   - ateucher
