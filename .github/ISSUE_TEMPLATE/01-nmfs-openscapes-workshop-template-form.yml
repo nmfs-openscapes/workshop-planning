@@ -17,7 +17,7 @@ body:
 
 
         Before submitting, please check the
-        [workshop spreadsheet](https://docs.google.com/spreadsheets/d/1Y4qzqWLsKHTNzuQi-fOaHGud0Ld_q1GHAzhS9-grV7Q/edit?usp=sharing)
+        [workshop spreadsheet](https://docs.google.com/spreadsheets/d/14GDUFU3_H2bZcSt--VGLRmrRFq3dylDL8ZeAKuFbV6E/edit?gid=695033382)
         for any existing reservations around your dates. See also the
         [documentation on openscapes.cloud](https://openscapes.cloud/password-access.html)
         for detailed instructions.
@@ -163,7 +163,8 @@ body:
         - label: >
             **Organizer**: Submit a ticket by email to 2i2c for the workshop 
             [as per instructions](https://openscapes.cloud/password-access.html), 
-            cc'ing hub PoC (andy [at] openscapes [dot] org).
+            cc'ing hub PoC (@ateucher; andy [at] openscapes [dot] org) and 
+            @eeholmes (eli [dot] holmes [at] noaa [dot] gov).
         - label: >
             **Hub PoC**: Confirm `[Event]` or `[Support]` issue opened in 
             [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure/issues)
