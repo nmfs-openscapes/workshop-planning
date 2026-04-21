@@ -161,10 +161,13 @@ body:
             same time and if so, let the hub PoC know to make sure the hub can 
             support multiple workshops at the same time.
         - label: >
-            **Organizer**: Submit a ticket by email to 2i2c for the workshop 
+            **Organizer**: Submit a ticket by email to 2i2c for the workshop and
+            request a new password for the workshop,
             [as per instructions](https://openscapes.cloud/password-access.html), 
             cc'ing hub PoC (@ateucher; andy [at] openscapes [dot] org) and 
-            @eeholmes (eli [dot] holmes [at] noaa [dot] gov). You will receive the new password for the workshop from 2i2c once it is reset. 
+            @eeholmes (eli [dot] holmes [at] noaa [dot] gov). You will receive 
+            confirmation of the new password for the workshop from 2i2c once it 
+            is reset. 
         - label: >
             **Hub PoC**: Confirm `[Event]` or `[Support]` issue opened in 
             [2i2c-org/infrastructure](https://github.com/2i2c-org/infrastructure/issues)
