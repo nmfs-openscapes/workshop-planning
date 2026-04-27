@@ -184,17 +184,18 @@ body:
             password should be live). I tested that the workshop password works 
             and images work.
         - label: >
-            **Hub PoC**: After event, put in a 2i2c ticket to remove the 
-            participants directories, cleared shared-public, and reset password.
+            **Hub PoC**: After event, put in a 2i2c ticket to reset password.
         - label: >
             **Organizer**: After the event, open an 
             [issue](https://github.com/NMFS-Openscapes/workshop-planning/issues/new?template=NMFS-openscapes-workshop-reporting-template.md) 
             in the Workshop Planning repo to report back.
-
-  - type: markdown
-    attributes:
-      value: >
-        ---
-
-        _Please click on the "Projects" button below and tick the 
-        "Main Planning" project if it is available to you_
+        - label: >
+            **Hub PoC**: After event, log in to the hub as admin, enumerate the
+            participant directories and update the workshop spreadsheet with the 
+            actual number of participants.
+        - label: >
+            **Hub PoC**: After event, delete the participant directories.
+        - label: >
+            **Hub PoC**: Close the issue. If the workshop was completed, close
+            as "completed". If the workshop was cancelled before being held, 
+            close as "Not Planned" and note in the comments that it was cancelled.
