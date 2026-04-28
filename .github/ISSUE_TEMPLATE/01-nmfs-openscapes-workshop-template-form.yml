@@ -165,9 +165,9 @@ body:
         - label: >
             **Organizer**: Submit a ticket by email to 2i2c for the workshop and
             request a new password for the workshop, [as per
-            instructions](https://openscapes.cloud/password-access.html),
-            cc'ing hub PoC (@ateucher; andy [at] openscapes [dot] org) and
-            @eeholmes (eli [dot] holmes [at] noaa [dot] gov). You will receive
+            instructions](https://openscapes.cloud/password-access.html), cc'ing
+            hub PoC (@ateucher; andy [at] openscapes [dot] org) and @eeholmes
+            (eli [dot] holmes [at] noaa [dot] gov). You will receive
             confirmation of the new password for the workshop from 2i2c once it
             is reset.
         - label: >
